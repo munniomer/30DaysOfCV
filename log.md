@@ -6,7 +6,7 @@
 * [Log - click here to see my progress](log.md)
 * [Resources - click here to see the resources I use for my Learning](resources.md)
 
-### Day 1: Dec 24, 2019
+### Day 1: Dec 22, 2019
 **Today's Progress:** 
 **Thoughts**: 
 
