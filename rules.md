@@ -1,7 +1,7 @@
 # Rules of the 30 Days Of Computer Vision Challenge
 
 ## Main Commitment
-### I will practice my Computer Vision Nanodegree topics for at least 2 hours everyday for the next 30 days.
+### I will practice my CV Nanodegree topics for at least 2 hours everyday for the next 30 days.
 
 #### Start Date
 December 22nd, 2019
